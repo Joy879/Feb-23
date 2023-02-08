@@ -41,6 +41,7 @@ What happens is bash terminal is sensitive to commands and interprets one word a
 Fix: ensure all your file names don't have a space between them e.g. **new-file.txt** or **new_file.txt**
 
 2. Your first commit 
+
 you type git commit  and git says ``Please tell me who you are`` 
 You are supposed to do a one-time setting for git which is where you set up your credentials i.e. username and useremail
 

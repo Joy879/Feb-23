@@ -1,5 +1,5 @@
 # Feb-23
 Files list 
-* [Install links](https://github.com/Joy879/Feb-23/blob/main/Install%20links.pdf) - all tools you need to work with for this course
-* [git cheatsheet](https://github.com/Joy879/Feb-23/blob/main/git-cheat-sheet.pdf) - a pdf to summarize possible commands.
-* [notes.md](https://github.com/Joy879/Feb-23/blob/main/notes.md) A summary of today's work and possible solutions to errors you might face
+* [Install links](https://github.com/Joy879/Feb-23/tree/main/Installs) - all tools you need to work with for this course
+* [Git ](https://github.com/Joy879/Feb-23/tree/main/Git) - a pdf to summarize possible commands.
+* [Python](https://github.com/Joy879/Feb-23/tree/main/Python) A summary of Possible commands you can use to edit markdowns

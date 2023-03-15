@@ -1,5 +1,5 @@
 ## Shared links
-* [nbviewer](nbviewer.org) - Sometimes notebooks with plotly graphs do not render well on github. To see all plotly graphs you can use this tool
+* [nbviewer](https://nbviewer.org/) - Sometimes notebooks with plotly graphs do not render well on github. To see all plotly graphs you can use this tool
 * [Covid dashboard](https://covid19.who.int/) - An example of a data app/dashboard. Also where our data for the covid app is coming from
 * [Choropleth notebook](https://nbviewer.org/github/Joy879/choropleth_samples/blob/main/Choropleth_may.ipynb) - A detailed notebook with all the code needed for the covid map to work
 * [Exception handling](https://realpython.com/python-exceptions/) - Learn more about exception handling concepts

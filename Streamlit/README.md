@@ -1,5 +1,8 @@
 # Intro to Streamlit and working with VScode.
 
+* [Part1:VScode](https://github.com/Joy879/Feb-23/tree/main/Streamlit#key-points-on-vscode)
+* [Part-2:Streamlit](https://github.com/Joy879/Feb-23/tree/main/Streamlit#streamlit)
+
 ## Key points on VScode
 
 #### IDE instead of Regular Notebooks

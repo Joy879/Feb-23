@@ -13,6 +13,9 @@
 #### How to open your project folder using vs code 
 
 Use shortcuts
+
+
+
 ![Screenshot 2023-03-20 201735](https://user-images.githubusercontent.com/70502261/226424143-adef8fbe-50e1-423a-8c2a-b313a944ece2.png)
 ![Screenshot 2023-03-20 204813](https://user-images.githubusercontent.com/70502261/226424538-ba59fd38-e1d8-4e55-aa02-f853869db141.png)
 

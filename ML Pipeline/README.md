@@ -30,3 +30,4 @@
 #### Deployment
 
 
+[Need a comprehensive one time collection of links?](https://wanjiru517.github.io/Resources/)

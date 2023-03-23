@@ -6,7 +6,8 @@
 
 #### EDA
 * [Visualization refresher](https://www.kaggle.com/learn/data-visualization)
-* [Intro to statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+* [Intro to Descritptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+* [Intro to inferential statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 ![download](https://user-images.githubusercontent.com/70502261/226999035-c2f64fa9-4ea0-4807-bd04-f9d6aff02d4c.png)
 
 #### Data prepocessing and Feature Engineering
